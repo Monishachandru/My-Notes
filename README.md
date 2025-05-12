@@ -31,4 +31,4 @@ A simple and intuitive Notes application that allows users to create, edit, dele
    cd notes-app
 
 3. **Open the index.html file in your browser.**
--No server setup required — everything runs directly in the browser.
+- No server setup required — everything runs directly in the browser.
