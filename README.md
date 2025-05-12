@@ -26,3 +26,10 @@ A simple and intuitive Notes application that allows users to create, edit, dele
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/notes-app.git
+2. **Navigate into the project folder**:
+   ```bash
+   cd notes-app
+
+3. **Open the index.html file in your browser.**
+
+- No server setup required — everything runs directly in the browser.
