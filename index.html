@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Notes App</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="app">
+    <h1>📝 My Notes</h1>
+    <div class="input-group">
+      <input id="searchInput" type="text" placeholder="Search notes..." onkeyup="searchNotes()">
+      <textarea id="noteInput" placeholder="Write your note here..."></textarea>
+      <button onclick="addNote()">Add Note</button>
+    </div>
+    <ul id="notesList"></ul>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
