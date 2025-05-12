@@ -19,9 +19,7 @@ A simple and intuitive Notes application that allows users to create, edit, dele
   
 ## Screenshots
 
-![Notes App Screenshot](link-to-screenshot.png)
-
-> _Make sure to replace `link-to-screenshot.png` with an actual image file if you have one!_
+![Notes App Screenshot](my-notes (Screenshot).jpeg)
 
 ## How to Run Locally
 
